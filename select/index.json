@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネグローニ",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-02-11T11:18:23.866648Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネグローニ",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_ネグローニ_メガテラ・ゼロ.txt"
+    }
+  ]
+}
